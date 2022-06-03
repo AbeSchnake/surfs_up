@@ -7,7 +7,7 @@ A database of temperature observations was queried in order to compare the diffe
 
 ### December summary statistics
 
-![Dec_stats] https://github.com/AbeSchnake/surfs_up/blob/main/Images/December_stats.png
+![Dec_stats](https://github.com/AbeSchnake/surfs_up/blob/main/Images/December_stats.png)
 
 ## Results
 * The observed temperatures do not vary much between December anf June, making Hawaii the ideal location for a surf shop. There is only a 3.9 degree difference in the mean temperatures.
