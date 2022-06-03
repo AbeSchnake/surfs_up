@@ -4,7 +4,7 @@
 A database of temperature observations was queried in order to compare the differences in Hawaiian weather between the months of June and December. Tables showing summary statistics are shown below.
 
 ### June summary statistics
-
+![june_stats](https://github.com/AbeSchnake/surfs_up/blob/main/Images/June_stats.png)
 ### December summary statistics
 
 ![Dec_stats](https://github.com/AbeSchnake/surfs_up/blob/main/Images/December_stats.png)
